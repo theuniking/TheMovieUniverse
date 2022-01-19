@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="movie_poster">Постер фільму</string>
+    <string name="top_rated">Високо оцінений</string>
+    <string name="most_popular">Найбільш популярний</string>
+    <string name="main">Головна</string>
+    <string name="favourites">Вибране</string>
+    <string name="original_name">Оригінальна назва</string>
+    <string name="rating">Рейтинг</string>
+    <string name="date_of_release">Дата випуску</string>
+    <string name="overview">Огляд</string>
+    <string name="launch_trailer">Запуск трейлера</string>
+    <!-- TODO: Remove or change this placeholder text -->\
+    <string name="added_to_favourites">Додано до вибраного</string>
+    <string name="add_to_favourites">Додати до вибраного</string>
+    <string name="please_download">Будь ласка, завантажте фільм з головної сторінки</string>
+    <string name="deleted_from_favs">Видалено з вибраного</string>
+    <string name="favourites_big">Вибране</string>
+</resources>
