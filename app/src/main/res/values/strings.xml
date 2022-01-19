@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Movies</string>
+    <string name="app_name">The Movie Universe</string>
     <string name="movie_poster">Постер фільму</string>
     <string name="top_rated">Високо оцінений</string>
     <string name="most_popular">Найбільш популярний</string>
